@@ -4,7 +4,7 @@ SIGKDD_Decision_Trees
 #Decision Tree references
 
 
-
+https://triangleinequality.wordpress.com/category/machine-learning/decision-trees/
 
 ## Online Lectures
 
@@ -36,4 +36,10 @@ https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learn
 Programming Collective Intelligence 
 
 http://shop.oreilly.com/product/9780596529321.do
+
+
+Top 10 algorithms in data mining
+http://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf
+
+
 
