@@ -3,7 +3,6 @@ SIGKDD_Decision_Trees
 
 #Decision Tree references
 
-
 https://triangleinequality.wordpress.com/category/machine-learning/decision-trees/
 
 ## Online Lectures
@@ -43,3 +42,15 @@ http://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf
 
 
 
+# Splitting Attribute Criteria
+
+* Information Gain
+* Gini Index
+* Likelihood-Ratio Chi–Squared Statistics
+* DKM Criterion
+* Gain Ratio
+* Distance Measure
+* Twoing Criterion
+* Orthogonal (ORT) Criterion
+* Kolmogorov–Smirnov Criterion
+* AUC–Splitting Criteria
