@@ -41,6 +41,8 @@ Top 10 algorithms in data mining
 http://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf
 
 
+A Survey of Decision Tree Classifier Methodologies
+https://engineering.purdue.edu/~landgreb/SMC91.pdf
 
 # Splitting Attribute Criteria
 
