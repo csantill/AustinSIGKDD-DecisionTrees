@@ -3,6 +3,11 @@ SIGKDD_Decision_Trees
 
 #Decision Tree references
 
+## Slide deck 
+https://docs.google.com/presentation/d/1OxJqaMMIAr2GLDaOSrG-XuXV6DF_aksSvj79pYqTGGE/pub?start=false&loop=false&delayms=60000&slide=id.p
+
+
+
 https://triangleinequality.wordpress.com/category/machine-learning/decision-trees/
 
 ## Online Lectures
