@@ -31,7 +31,8 @@ Decision Trees Using the Gini Index
 
 https://www.youtube.com/watch?v=Zze7SKuz9QQ&index=2&list=PLwTMYZQ6Jf3tEh69JSfFttSSUjyt6nreT
 
-###A Practical Guide to Tree Based Learning Algorithms
+### A Practical Guide to Tree Based Learning Algorithms
+
 https://sadanand-singh.github.io/posts/treebasedmodels/
 
 
